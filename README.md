@@ -6,7 +6,7 @@ Este repositorio centraliza los archivos de traducción utilizados en los distin
 
 ## 📁 Estructura del repositorio
 
-```json
+```
 /locales/
 ├── checkout-generico/
 │ ├── es/
