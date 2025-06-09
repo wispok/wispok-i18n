@@ -188,6 +188,8 @@
 	"proofOfPayment.privacyPolicy": "Payment experience designed by",
 	"proofOfPayment.chargeWith": "Payment experience designed by",
 
+	"app.otherPaymentMethods": "See other payment methods",
+
 	"error404.title": "Error 404",
 	"error404.message": "Sorry! We could not find the page you are looking for.",
 	"error404.solution": "Please select pay with Wispok again from the main page."
