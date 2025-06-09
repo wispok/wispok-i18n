@@ -181,6 +181,8 @@
 	"payed.title": "Payment has already been made",
 	"payed.message": "The payment process was completed using this link, and the payment receipt has been sent to your email.",
 
+	"cardPicker.message": "What card will you use?",
+
 	"proofOfPayment.title": "Payment receipt",
 	"proofOfPayment.download": "Download",
 	"proofOfPayment.pdfName": "PaymentReceipt",
