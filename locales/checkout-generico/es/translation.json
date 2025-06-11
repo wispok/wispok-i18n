@@ -96,7 +96,7 @@
 	"cashForm.emailRequired": "* Asegúrate de ingresar la información de este campo.",
 	"cashForm.commission1": "Este servicio incluye una comisión de",
 	"cashForm.commission2": "MXN IVA incluido",
-	"cashForm.commission3": "adicional al cargo de la sucursal donde realizarás tu pago.",
+	"cashForm.commission3": " adicional al cargo de la sucursal donde realizarás tu pago.",
 	"cashForm.continue": "Continuar",
 
 	"cashPDF.title": "Referencia para pago en efectivo",
@@ -138,7 +138,7 @@
 	"codiPayment.whatIs1": "CoDi es una forma de pago desarrollada por el",
 	"codiPayment.whatIs2": "Banco de México",
 	"codiPayment.whatIs3": "que te permite realizar transacciones utilizando el ",
-	"codiPayment.whatIs4": "código QR que te generaremos.",
+	"codiPayment.whatIs4": " código QR que te generaremos.",
 
 	"speiData.title": "Datos de la transferencia",
 	"speiData.description": "Completa el pago desde tu aplicación bancaria con la siguiente información:",
