@@ -198,5 +198,40 @@
 
 	"error404.title": "Error 404",
 	"error404.message": "¡Lo sentimos! No hemos podido encontrar la página que buscas.",
-	"error404.solution": "Selecciona nuevamente pagar con Wispok desde la página principal."
+	"error404.solution": "Selecciona nuevamente pagar con Wispok desde la página principal.",
+
+	"form.emailPlaceholder": [
+		"ej. ejemplo@correo.com",
+		"ej. ejemplo@dominio.com",
+		"ej. usuario@gmail.com",
+		"ej. nombre@empresa.com",
+		"ej. micorreo@hotmail.com"
+	],
+
+	"form.phonePlaceholder": "ej. 3367544325",
+
+	"form.firstNamePlaceholder": [
+		"ej. Alejandro",
+		"ej. Andres",
+		"ej. Beatriz",
+		"ej. Brenda",
+		"ej. Daniel",
+		"ej. David",
+		"ej. Gema",
+		"ej. Gilberto",
+		"ej. Hannia",
+		"ej. Isabella",
+		"ej. José",
+		"ej. Juan",
+		"ej. Mariana",
+		"ej. Mauricio",
+		"ej. Michelle",
+		"ej. Omar",
+		"ej. Oscar",
+		"ej. Ricardo",
+		"ej. Rodrigo",
+		"ej. Rosa"
+	],
+
+	"form.lastNamePlaceholder": ["ej. Gómez", "ej. García", "ej. Hernández", "ej. Martínez", "ej. López", "ej. González", "ej. Rodríguez"]
 }
