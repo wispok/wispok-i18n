@@ -174,7 +174,7 @@
 	"layout.linkExpired": "This link was paid",
 	"layout.linkExpiresIn": "This link expires at",
 	"footer.anyData": "Any personal data collected by Wispok ® in connection with this service will be handled in accordance with the",
-	"footer.privacyPolicy": "PrVATcy Notice",
+	"footer.privacyPolicy": "Privacy Notice",
 
 	"expiredLink.title": "Sorry! Your link has expired",
 	"expiredLink.message": "The time to complete your payment has expired.",
@@ -198,5 +198,40 @@
 
 	"error404.title": "Error 404",
 	"error404.message": "Sorry! We could not find the page you are looking for.",
-	"error404.solution": "Please select pay with Wispok again from the main page."
+	"error404.solution": "Please select pay with Wispok again from the main page.",
+
+	"form.emailPlaceholder": [
+		"Ex. example@email.com",
+		"Ex. example@domain.com",
+		"Ex. user@gmail.com",
+		"Ex. name@bussiness.com",
+		"Ex. myemail@hotmail.com"
+	],
+
+	"form.phonePlaceholder": "Ex. 3367544325",
+
+	"form.firstNamePlaceholder": [
+		"Ex. Alejandro",
+		"Ex. Andres",
+		"Ex. Beatriz",
+		"Ex. Brenda",
+		"Ex. Daniel",
+		"Ex. David",
+		"Ex. Gema",
+		"Ex. Gilberto",
+		"Ex. Hannia",
+		"Ex. Isabella",
+		"Ex. José",
+		"Ex. Juan",
+		"Ex. Mariana",
+		"Ex. Mauricio",
+		"Ex. Michelle",
+		"Ex. Omar",
+		"Ex. Oscar",
+		"Ex. Ricardo",
+		"Ex. Rodrigo",
+		"Ex. Rosa"
+	],
+
+	"form.lastNamePlaceholder": ["Ex. Gómez", "Ex. García", "Ex. Hernández", "Ex. Martínez", "Ex. López", "Ex. González", "Ex. Rodríguez"]
 }
