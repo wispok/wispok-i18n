@@ -235,5 +235,6 @@
 
 	"form.lastNamePlaceholder": ["Ex. Gómez", "Ex. García", "Ex. Hernández", "Ex. Martínez", "Ex. López", "Ex. González", "Ex. Rodríguez"],
 
-	"invoice.title": "Don't forget to invoice your payment!"
+	"invoice.title": "Don't forget to invoice your payment!",
+	"invoice.button": "Invoice here"
 }

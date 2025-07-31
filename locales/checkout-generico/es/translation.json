@@ -235,5 +235,6 @@
 
 	"form.lastNamePlaceholder": ["ej. Gómez", "ej. García", "ej. Hernández", "ej. Martínez", "ej. López", "ej. González", "ej. Rodríguez"],
 
-	"invoice.title": "¡No olvides facturar tu pago!"
+	"invoice.title": "¡No olvides facturar tu pago!",
+	"invoice.button": "Facturar aquí"
 }
