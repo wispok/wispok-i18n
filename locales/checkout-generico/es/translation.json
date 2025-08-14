@@ -114,6 +114,7 @@
 	"cashPDF.payDisclaimer": "Una vez realizado el pago, recibirás un correo electrónico confirmando el pago del servicio a tu cuenta.Cualquier duda que tengas, escríbenos a ayuda@wispok.com",
 	"cashPDF.greetings": "Saludos, Equipo Wispok.",
 
+	"cashPaymentPoints.title": "Muestra la siguiente información al cajero",
 	"cashPaymentPoints.reference": "Referencia",
 	"cashPaymentPoints.service": "Servicio",
 	"cashPaymentPoints.amount": "Monto",
