@@ -101,7 +101,9 @@
 
 	"cashPDF.title": "Referencia para pago en efectivo",
 	"cashPDF.hello": "¡Hola!,",
-	"cashPDF.message": "Realiza tu pago en cualquiera de los puntos autorizados. Menciona que vas a hacer un pago de servicio, tu número de referencia, el monto a pagar y el convenio (PayCash o RedEfectiva) que encontrarás debajo de cada logo de la red de pago.",
+	"cashPDF.message": "Realiza tu pago en cualquiera de los puntos autorizados. Menciona que vas a hacer un pago de servicio, tu número de referencia y el monto que deseas pagar.",
+	"cashPDF.service": "Servicio",
+	"cashPDF.upToAmount": "Hasta",
 	"cashPDF.amount": "Monto",
 	"cashPDF.commission": "Cargo por servicio",
 	"cashPDF.commissionDisclaimer": "Los puntos de pago cobran una comisión adicional.",
