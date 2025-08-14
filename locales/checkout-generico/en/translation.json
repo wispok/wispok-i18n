@@ -209,6 +209,10 @@
 	"error404.message": "Sorry! We could not find the page you are looking for.",
 	"error404.solution": "Please select pay with Wispok again from the main page.",
 
+	"errorBoundary.title": "Something went wrong",
+	"errorBoundary.message": "Sorry! An unexpected error has occurred. Please try again.",
+	"errorBoundary.solution": "If the problem persists, contact us using the chat in the bottom right corner."
+
 	"form.emailPlaceholder": [
 		"Ex. example@email.com",
 		"Ex. example@domain.com",
