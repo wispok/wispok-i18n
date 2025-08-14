@@ -119,7 +119,8 @@
 	"cashPaymentPoints.service": "Service",
 	"cashPaymentPoints.amount": "Amount",
 	"cashPaymentPoints.expiresAt": "Make your payment before",
-
+	"cashPaymentPoints.viewMore": "See more payment locations",
+	
 	"cashPayment.title": "Cash",
 	"cashPayment.description": "Cash payment",
 	"cashPayment.downloadPDF": "Download your payment order",
