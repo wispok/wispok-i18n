@@ -114,6 +114,11 @@
 	"cashPDF.payDisclaimer": "Una vez realizado el pago, recibirás un correo electrónico confirmando el pago del servicio a tu cuenta.Cualquier duda que tengas, escríbenos a ayuda@wispok.com",
 	"cashPDF.greetings": "Saludos, Equipo Wispok.",
 
+	"cashPaymentPoints.reference": "Referencia",
+	"cashPaymentPoints.service": "Servicio",
+	"cashPaymentPoints.amount": "Monto",
+	"cashPaymentPoints.expiresAt": "Realiza tu pago antes de",
+
 	"cashPayment.title": "Efectivo",
 	"cashPayment.description": "Pago en efectivo",
 	"cashPayment.downloadPDF": "Descargar tu orden de pago",
