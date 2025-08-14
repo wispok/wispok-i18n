@@ -119,6 +119,7 @@
 	"cashPaymentPoints.service": "Servicio",
 	"cashPaymentPoints.amount": "Monto",
 	"cashPaymentPoints.expiresAt": "Realiza tu pago antes de",
+	"cashPaymentPoints.viewMore": "Ver más puntos de pago",
 
 	"cashPayment.title": "Efectivo",
 	"cashPayment.description": "Pago en efectivo",
