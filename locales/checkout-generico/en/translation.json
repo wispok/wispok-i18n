@@ -114,6 +114,11 @@
 	"cashPDF.payDisclaimer": "After you complete your payment, we'll send a confirmation email. If you have any questions please reach out to us at help@wispok.com",
 	"cashPDF.greetings": "Warm regards, Wispok Team.",
 
+	"cashPaymentPoints.reference": "Reference",
+	"cashPaymentPoints.service": "Service",
+	"cashPaymentPoints.amount": "Amount",
+	"cashPaymentPoints.expiresAt": "Make your payment before",
+
 	"cashPayment.title": "Cash",
 	"cashPayment.description": "Cash payment",
 	"cashPayment.downloadPDF": "Download your payment order",
