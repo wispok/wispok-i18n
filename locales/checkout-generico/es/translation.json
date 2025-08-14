@@ -208,6 +208,10 @@
 	"error404.title": "Error 404",
 	"error404.message": "¡Lo sentimos! No hemos podido encontrar la página que buscas.",
 	"error404.solution": "Selecciona nuevamente pagar con Wispok desde la página principal.",
+	
+	"errorBoundary.title": "Algo salió mal",
+	"errorBoundary.message": "¡Lo sentimos! Ha ocurrido un error inesperado. Por favor, inténtalo nuevamente.",
+	"errorBoundary.solution": "Si el problema persiste, contáctanos usando el chat en la esquina inferior derecha.",
 
 	"form.emailPlaceholder": [
 		"ej. ejemplo@correo.com",
