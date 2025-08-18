@@ -1,5 +1,5 @@
 {
-	"simpleForm.title": "Please enter your email address",
+	"simpleForm.title": "Enter your data",
 	"simpleForm.emailLabel": "Email address",
 	"simpleForm.emailPlaceholder": "example@email.com",
 	"simpleForm.emailRequired": "* This field is required.",
