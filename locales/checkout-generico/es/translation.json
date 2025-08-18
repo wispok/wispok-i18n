@@ -54,6 +54,12 @@
 	"personalDataForm.email": "Correo electrónico",
 	"personalDataForm.emailPattern": "* Asegúrate de ingresar un correo válido, debe contener un '@' y '.'",
 	"personalDataForm.emailRequired": "* Asegúrate de ingresar la información de este campo.",
+	"personalDataForm.name": "Nombre",
+	"personalDataForm.namePattern": "* Asegúrate de ingresar un nombre valido.",
+	"personalDataForm.nameRequired": "* Asegúrate de ingresar la información de este campo.",
+	"personalDataForm.lastName": "Nombre",
+	"personalDataForm.lastNamePattern": "* Asegúrate de ingresar un nombre valido.",
+	"personalDataForm.lastNameRequired": "* Asegúrate de ingresar la información de este campo.",
 	"personalDataForm.phone": "Teléfono",
 	"personalDataForm.phoneMinLength": "* Asegúrate de ingresar un número de teléfono válido.",
 	"personalDataForm.phonePattern": "* Asegúrate de solo ingresar números.",
@@ -208,7 +214,7 @@
 	"error404.title": "Error 404",
 	"error404.message": "¡Lo sentimos! No hemos podido encontrar la página que buscas.",
 	"error404.solution": "Selecciona nuevamente pagar con Wispok desde la página principal.",
-	
+
 	"errorBoundary.title": "Algo salió mal",
 	"errorBoundary.message": "¡Lo sentimos! Ha ocurrido un error inesperado. Por favor, inténtalo nuevamente.",
 	"errorBoundary.solution": "Si el problema persiste, contáctanos usando el chat en la esquina inferior derecha.",

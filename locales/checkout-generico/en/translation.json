@@ -54,6 +54,12 @@
 	"personalDataForm.email": "Email address",
 	"personalDataForm.emailPattern": "* Please enter a valid email address, it should contain '@' and '.'",
 	"personalDataForm.emailRequired": "* This field is required.",
+	"personalDataForm.name": "Name",
+	"personalDataForm.namePattern": "* Please enter a valid name.",
+	"personalDataForm.nameRequired": "* This field is required.",
+	"personalDataForm.lastName": "Last name",
+	"personalDataForm.lastNamePattern": "* Please enter a valid last name.",
+	"personalDataForm.lastNameRequired": "* This field is required.",
 	"personalDataForm.phone": "Phone number",
 	"personalDataForm.phoneMinLength": "* Please enter a valid phone number.",
 	"personalDataForm.phonePattern": "* Please enter numbers only.",
@@ -120,7 +126,7 @@
 	"cashPaymentPoints.amount": "Amount",
 	"cashPaymentPoints.expiresAt": "Make your payment before",
 	"cashPaymentPoints.viewMore": "See more payment locations",
-	
+
 	"cashPayment.title": "Cash",
 	"cashPayment.description": "Cash payment",
 	"cashPayment.downloadPDF": "Download your payment order",
