@@ -40,6 +40,8 @@
 	"adyenCardForm.cardExpiration": "Expiración",
 	"adyenCardForm.cardCVV": "CVV",
 	"adyenCardForm.zipCode": "Código postal",
+	"adyenCardForm.zipCodePattern": "* Por favor ingresa un código postal válido.",
+	"adyenCardForm.zipCodeRequired": "* Asegúrate de ingresar la información de este campo.",
 	"adyenForm.editData": "Editar mis datos",
 	"adyenForm.title": "Tus datos",
 	"adyenForm.name": "Nombre",
