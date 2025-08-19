@@ -39,6 +39,7 @@
 	"adyenCardForm.cardNumber": "Número de la tarjeta",
 	"adyenCardForm.cardExpiration": "Expiración",
 	"adyenCardForm.cardCVV": "CVV",
+	"adyenCardForm.zipCode": "Código postal",
 	"adyenForm.editData": "Editar mis datos",
 	"adyenForm.title": "Tus datos",
 	"adyenForm.name": "Nombre",
