@@ -69,6 +69,9 @@
 	"personalDataForm.phonePattern": "* Asegúrate de solo ingresar números.",
 	"personalDataForm.continue": "Continuar",
 	"personalDataForm.help": "* = Campos obligatorios.",
+	"personalDataForm.emailVerification":"Confirmación de correo electrónico",
+	"personalDataForm.emailVerificationRequired": "* Por favor confirma tu correo electrónico.",
+	"personalDataForm.emailVerificationMismatch": "* Los correos no coinciden. Verifícalos e inténtalo de nuevo.",
 
 	"cardPayment.title": "Tarjeta de crédito/débito",
 	"cardPayment.processing": "Procesando tu pago",
