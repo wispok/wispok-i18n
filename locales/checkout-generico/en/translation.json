@@ -54,7 +54,8 @@
 	"adyenForm.pay": "Pay",
 	"adyenForm.help": "* = Required fields.",
 
-	"personalDataForm.title": "Your information",
+	"personalDataForm.title": "Enter your details",
+	"personalDataForm.description": "With this information, we’ll be able to send you important payment notifications as well as your receipt.",
 	"personalDataForm.email": "Email address",
 	"personalDataForm.emailPattern": "* Please enter a valid email address, it should contain '@' and '.'",
 	"personalDataForm.emailRequired": "* This field is required.",
@@ -69,6 +70,10 @@
 	"personalDataForm.phonePattern": "* Please enter numbers only.",
 	"personalDataForm.continue": "Continue",
 	"personalDataForm.help": "* = Required fields.",
+	
+	"personalDataForm.emailVerification": "Confirm email address",
+	"personalDataForm.emailVerificationRequired": "* Please confirm your email address.",
+	"personalDataForm.emailVerificationMismatch": "* The email addresses don’t match. Please check and try again.",
 
 	"cardPayment.title": "Credit/debit card",
 	"cardPayment.processing": "Processing your payment",
