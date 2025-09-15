@@ -114,6 +114,9 @@
 	"cashForm.commission3": " on top of the authorized payment location fee where you will make your payment.",
 	"cashForm.continue": "Continue",
 
+	"cashTitle.window": "Deposit in BBVA window",
+	"cashTitle.deposit": "Store deposit",
+
 	"cashPDF.title": "Reference for cash payment",
 	"cashPDF.hello": "Hi!,",
 	"cashPDF.message": "Make your payment at any authorized location. Mention that you are going to make a service payment, your reference number, and the amount you wish to pay.",

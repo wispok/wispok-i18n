@@ -113,6 +113,9 @@
 	"cashForm.commission3": " adicional al cargo de la sucursal donde realizarás tu pago.",
 	"cashForm.continue": "Continuar",
 
+	"cashTitle.window": "Depósito en en ventanilla BBVA",
+	"cashTitle.deposit": "Depósito en tienda",
+
 	"cashPDF.title": "Referencia para pago en efectivo",
 	"cashPDF.hello": "¡Hola!,",
 	"cashPDF.message": "Realiza tu pago en cualquiera de los puntos autorizados. Menciona que vas a hacer un pago de servicio, tu número de referencia y el monto que deseas pagar.",
