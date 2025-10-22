@@ -76,6 +76,7 @@
 
 	"cardPayment.title": "Tarjeta de crédito/débito",
 	"cardPayment.processing": "Procesando tu pago",
+	"cardPayment.processingGooglePay": "Estamos procesando tu pago, por favor no recargues la página",
 
 	"kushkiForm.title": "Tus datos",
 	"kushkiForm.editData": "Editar mis datos",
