@@ -6,6 +6,8 @@
 	"simpleForm.emailPattern": "Please enter a valid email address (it must include '@' and '.'",
 	"simpleForm.continue": "Continue",
 
+	"header.helpLabel": "Help",
+
 	"alertVoucher.title": "Receipt sent",
 	"alertVoucher.paragraph1": "We've sent this information to the email you entered in the form",
 	"alertVoucher.paragraph2": "provided in the form",

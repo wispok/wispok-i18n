@@ -6,6 +6,8 @@
 	"simpleForm.emailPattern": "Asegúrate de ingresar un correo válido, debe contener un '@' y '.'",
 	"simpleForm.continue": "Continuar",
 
+	"header.helpLabel": "Ayuda",
+
 	"alertVoucher.title": "Comprobante enviado",
 	"alertVoucher.paragraph1": "Hemos enviado esta información al correo",
 	"alertVoucher.paragraph2": "ingresado en el formulario",
