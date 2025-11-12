@@ -202,7 +202,7 @@
 	"speiData.commissionIVA": "plus VAT.",
 	"speiData.howToTransfer": "To ensure that your payment is processed correctly, please enter the reference and description as shown here: ",
 	"speiData.howToTransferSub": "If your bank fills in the details automatically, you will need to edit them.",
-	"speiData.reference": "Dynamic reference",
+	"speiData.reference": "Reference",
 	"speiData.concept": "Concept",
 	"speiData.expiration": "Payment due date:",
 	"speiData.expirationFormat": "hrs.",
