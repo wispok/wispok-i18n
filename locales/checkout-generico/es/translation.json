@@ -216,6 +216,8 @@
 	"speiPayment.modalTryAgain": "Intentar de nuevo",
 	"speiPayment.title": "Transferencia bancaria",
 
+	"cryptoPayment.title": "Criptomoneda",
+
 	"modal.voucherWatch": "Ver comprobante",
 	"modal.declined": "Pago no procesado",
 	"modal.retry": "Intentar de nuevo",

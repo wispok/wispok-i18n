@@ -216,6 +216,8 @@
 	"speiPayment.modalTryAgain": "Try again",
 	"speiPayment.title": "Bank transfer",
 
+	"cryptoPayment.title": "Cryptocurrency",
+
 	"modal.voucherWatch": "See receipt",
 	"modal.declined": "Unable to process payment",
 	"modal.retry": "Try again",
