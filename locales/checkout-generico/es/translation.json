@@ -217,6 +217,12 @@
 	"speiPayment.title": "Transferencia bancaria",
 
 	"cryptoPayment.title": "Criptomoneda",
+	"cryptoPayment.payWith": "Paga con cripto",
+	"cryptoPayment.payWithLarge": "Pay with criptomoneda",
+	"cryptoPayment.thankYou": "Gracias por pagar con Wispok",
+	"cryptoPayment.notice": "Realiza tu pago con Bitcoin (BTC), Bitcoin Lightning (LN BTC), Ethereum (ETH), Tether (USDT), USD Coin (USDC) y otras monedas.",
+	"cryptoPayment.notice1": "Los pagos con criptomonedas son procesados mediante TripleA. Cuando des click en pagar con cripto, serás redirigido a la página de TripleA para completar tu pago.",
+	"cryptoPayment.modal": "Estamos terminando de validar tu pago. Cuando sea aprobado, recibirás un correo electrónico de confirmación junto con tu comprobante de pago.",
 	"cryptoPayment.modalErrorTitle": "Ocurrió un error al generar la referencia",
 	"cryptoPayment.modalErrorMessage": "Ocurrió un error al generar la referencia, por favor intenta de nuevo.",
 	"cryptoPayment.modalTryAgain": "Intentar de nuevo",
