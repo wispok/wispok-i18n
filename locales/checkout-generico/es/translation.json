@@ -217,6 +217,9 @@
 	"speiPayment.title": "Transferencia bancaria",
 
 	"cryptoPayment.title": "Criptomoneda",
+	"cryptoPayment.modalErrorTitle": "Ocurrió un error al generar la referencia",
+	"cryptoPayment.modalErrorMessage": "Ocurrió un error al generar la referencia, por favor intenta de nuevo.",
+	"cryptoPayment.modalTryAgain": "Intentar de nuevo",
 
 	"modal.voucherWatch": "Ver comprobante",
 	"modal.declined": "Pago no procesado",

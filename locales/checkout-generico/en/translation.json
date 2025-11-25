@@ -217,6 +217,9 @@
 	"speiPayment.title": "Bank transfer",
 
 	"cryptoPayment.title": "Cryptocurrency",
+	"cryptoPayment.modalErrorTitle": "We couldn't generate the reference, please try again.",
+	"cryptoPayment.modalErrorMessage": "We couldn't generate the reference, please try again.",
+	"cryptoPayment.modalTryAgain": "Try again",
 
 	"modal.voucherWatch": "See receipt",
 	"modal.declined": "Unable to process payment",
