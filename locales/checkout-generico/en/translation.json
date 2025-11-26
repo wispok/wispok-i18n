@@ -226,6 +226,7 @@
 	"cryptoPayment.modalErrorTitle": "We couldn't generate the reference, please try again.",
 	"cryptoPayment.modalErrorMessage": "We couldn't generate the reference, please try again.",
 	"cryptoPayment.modalTryAgain": "Try again",
+	"cryptoPayment.declined": "An error has occurred in the transaction, please try again or select another payment method.",
 
 	"modal.voucherWatch": "See receipt",
 	"modal.declined": "Unable to process payment",
