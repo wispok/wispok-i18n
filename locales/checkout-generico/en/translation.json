@@ -228,6 +228,11 @@
 	"cryptoPayment.modalTryAgain": "Try again",
 	"cryptoPayment.declined": "An error has occurred in the transaction, please try again or select another payment method.",
 
+	"signInWrap.conjunction": "and",
+	"signInWrap.prefix": "By clicking Continue, you accept the",
+	"signInWrap.privacyPolicy": "Privacy Policy",
+	"signInWrap.termsAndConditions": "Terms and Conditions",
+
 	"modal.voucherWatch": "See receipt",
 	"modal.declined": "Unable to process payment",
 	"modal.retry": "Try again",

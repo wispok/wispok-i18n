@@ -228,6 +228,11 @@
 	"cryptoPayment.modalTryAgain": "Intentar de nuevo",
 	"cryptoPayment.declined": "Ha ocurrido un error en la transacción, por favor intenta nuevamente o selecciona otro método de pago.",
 
+	"signInWrap.conjunction": "y nuestro",
+	"signInWrap.prefix": "Al dar clic en Continuar, aceptas los",
+	"signInWrap.privacyPolicy": "Aviso de Privacidad",
+	"signInWrap.termsAndConditions": "Términos y Condiciones",
+
 	"modal.voucherWatch": "Ver comprobante",
 	"modal.declined": "Pago no procesado",
 	"modal.retry": "Intentar de nuevo",
