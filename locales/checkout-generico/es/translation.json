@@ -217,6 +217,7 @@
 	"speiPayment.title": "Transferencia bancaria",
 
 	"cryptoPayment.title": "Criptomoneda",
+	"cryptoPayment.completed": "Pago completado",
 	"cryptoPayment.payWith": "Paga con cripto",
 	"cryptoPayment.payWithLarge": "Paga con criptomoneda",
 	"cryptoPayment.thankYou": "Gracias por pagar con Wispok",
