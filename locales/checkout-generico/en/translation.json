@@ -224,6 +224,7 @@
 	"cryptoPayment.thankYou": "Thank you for paying with Wispok",
 	"cryptoPayment.notice": "Make your payment with Bitcoin (BTC), Bitcoin Lightning (LN BTC), Ethereum (ETH), Tether (USDT), USD Coin (USDC), and other currencies.",
 	"cryptoPayment.notice1": "Cryptocurrency payments are processed through TripleA. When you click on pay with crypto, you will be redirected to the TripleA page to complete your payment.",
+	"cryptoPayment.notice2": "For security, payments with digital currency may be subject to an identity validation process. To complete your payment, you may be asked to provide a valid government-issued ID and perform biometric validation before completing the transaction.",
 	"cryptoPayment.modal": "We are completing the validation of your payment. Once it is approved, you will receive a confirmation email along with your payment receipt.",
 	"cryptoPayment.modalErrorTitle": "We couldn't generate the reference, please try again.",
 	"cryptoPayment.modalErrorMessage": "We couldn't generate the reference, please try again.",
