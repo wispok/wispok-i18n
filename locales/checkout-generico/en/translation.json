@@ -262,6 +262,7 @@
 
 	"proofOfPayment.title": "Payment receipt",
 	"proofOfPayment.download": "Download",
+	"proofOfPayment.end": "Finish",
 	"proofOfPayment.pdfName": "PaymentReceipt",
 	"proofOfPayment.experience": "Payment experience designed by",
 	"proofOfPayment.privacyPolicy": "Privacy Policy",
