@@ -237,6 +237,7 @@
 	"signInWrap.termsAndConditions": "Terms and Conditions",
 
 	"modal.voucherWatch": "See receipt",
+	"modal.successTitle": "Success payment",
 	"modal.declined": "Unable to process payment",
 	"modal.retry": "Try again",
 	"modal.declinedSpei": "Make sure the information you entered matches what we provided.",
