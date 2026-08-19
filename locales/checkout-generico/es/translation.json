@@ -240,6 +240,7 @@
 	"modal.successTitle": "Pago exitoso",
 	"modal.declined": "Pago no procesado",
 	"modal.retry": "Intentar de nuevo",
+	"modal.finish": "Finalizar",
 	"modal.declinedSpei": "Asegúrate que los datos ingresados sean los que te proporcionamos.",
 	"modal.declinedBank": "Tu pago no pudo ser liquidado por problemas con tu banco. Si el problema continua, ponte en contacto con ellos.",
 	"modal.success": "Hemos enviado el comprobante a tu correo electrónico. Puedes verlo o compartirlo con el botón de abajo.",

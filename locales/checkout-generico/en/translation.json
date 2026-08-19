@@ -240,6 +240,7 @@
 	"modal.successTitle": "Success payment",
 	"modal.declined": "Unable to process payment",
 	"modal.retry": "Try again",
+	"modal.finish": "End",
 	"modal.declinedSpei": "Make sure the information you entered matches what we provided.",
 	"modal.declinedBank": "Your payment could not be completed due to an issue with your bank. If the problem persists, please contact them directly.",
 	"modal.success": "We have sent the payment receipt to your email. You can see or share it with the button below.",
