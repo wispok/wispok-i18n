@@ -28,13 +28,13 @@
 
 	"balanceCard.hello": "¡Hola! Estás pagando:",
 	"balanceCard.commission": "Se agregó cargo por servicio.",
-	"balanceCard.deferred": "Se agregó financiamiento.",
+	"balanceCard.deferred": "Se agregó plan de pagos.",
 	"balanceCard.orderNumber": "Número de pedido",
 	"balanceCard.wispokReference": "Referencia Wispok",
 	"balanceCard.total": "Total",
 
 	"notification.title": "Nuevo",
-	"notification.content": "Opciones de financiamiento disponibles a partir de $300.00 MXN para tarjetas de crédito.",
+	"notification.content": "Opciones de plan de pagos disponibles a partir de $300.00 MXN para tarjetas de crédito.",
 
 	"adyen3DS.goBack": "Regresar",
 	"adyenCardForm.title": "Datos de la tarjeta",
