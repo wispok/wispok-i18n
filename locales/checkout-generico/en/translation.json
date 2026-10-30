@@ -101,6 +101,11 @@
 	"kushkiForm.payWithDeferred": "Pay with a payment plan",
 	"kushkiForm.help": "* = Required fields.",
 
+	"participatingBanks.prefix": "Remember that only credit cards from ",
+	"participatingBanks.link": "participating banks",
+	"participatingBanks.suffix": " are eligible for installment payments.",
+	"participatingBanks.title": "Participating banks",
+
 	"cashForm.title": "Your information",
 	"cashForm.help": "* = Required fields.",
 	"cashForm.name": "Name",

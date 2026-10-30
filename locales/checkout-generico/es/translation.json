@@ -101,6 +101,11 @@
 	"kushkiForm.payWithDeferred": "Pagar con plan de pagos",
 	"kushkiForm.help": "* = Campos obligatorios.",
 
+	"participatingBanks.prefix": "Recuerda que solo las tarjetas de crédito de ",
+	"participatingBanks.link": "bancos participantes",
+	"participatingBanks.suffix": " son elegibles para pago a meses.",
+	"participatingBanks.title": "Bancos participantes",
+
 	"cashForm.title": "Tus datos",
 	"cashForm.help": "* = Campos obligatorios.",
 	"cashForm.name": "Nombre",
