@@ -80,6 +80,7 @@
 	"cardPayment.title": "Credit/debit card",
 	"cardPayment.processing": "Processing your payment",
 	"cardPayment.processingGooglePay": "We are processing your payment, please do not reload the page",
+	"cardPayment.binLookupError": "We couldn't validate your card right now. Try again to continue with your payment.",
 
 	"kushkiForm.title": "Your information",
 	"kushkiForm.editData": "Edit my information",
